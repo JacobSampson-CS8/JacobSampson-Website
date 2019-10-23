@@ -1,6 +1,8 @@
 
-# Welcome to LearnCS8 Resume Website
+# Welcome to the resume website for Jacob Sampson
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
+This is my resume website made from a template in my **Computer Science lab**.
 
-Special thanks to the open source bootstrap libraries that made this website possible. 
+![Here is a screenshot of the landing page on the website.](img/Capture.PNG)
+
+Thank you for visiting!
